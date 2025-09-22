@@ -1,4 +1,11 @@
-## Hi there 👋
+#### Developer DongJu Kang
+#### 안녕하세요 개발자 강동주입니다!
+---
+Skills
+
+[![My Skills](https://skillicons.dev/icons?i=python,c,fastapi,aws,figma,notion)](https://skillicons.dev)
+
+
 
 <!--
 **soltyspring/soltyspring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
