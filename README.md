@@ -3,7 +3,7 @@
 ---
 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,fastapi,aws,figma,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,fastapi,docker,git,mysql,aws,figma,notion)](https://skillicons.dev)
 
 
 
